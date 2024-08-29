@@ -1,0 +1,8 @@
+{
+  "helloWorld": "Olá Mundo!",
+  "freeThrow" : "Lance Livre",
+  "twoPointShot" : "Cesta de 2",
+  "threePointShot" : "Cesta de 3",
+  "undoLastPoints" : "Desfazer últimos pontos",
+  "resetScoreboard" : "Resetar o placar"
+}

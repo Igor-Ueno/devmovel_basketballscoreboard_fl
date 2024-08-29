@@ -1,0 +1,11 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "freeThrow" : "Free Throw",
+  "twoPointShot" : "2 Point Shot",
+  "threePointShot" : "3 Point Shot",
+  "undoLastPoints" : "Undo Last Points",
+  "resetScoreboard" : "Reset Scoreboard"
+}
